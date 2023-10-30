@@ -13,8 +13,8 @@
 <br>
 
 <h2 >:trophy: Github Analytics</h2>
-<p align="left">
-<a href="https://github.com/JavierAChacon" styles:"display:flex">
+<p align="center">
+<a href="https://github.com/JavierAChacon">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JavierAChacon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JavierAChacon&layout=compact&langs_count=8&theme=algolia"/>
 </a>
