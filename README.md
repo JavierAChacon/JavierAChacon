@@ -1,12 +1,12 @@
 <h1 align="center">Hi there! :wave:, I'm Javier Chacon</h1>
-<p align="center">A passionate MERN-Stack Developer</p>
+<p align="center">A passionate Full Stack Developer</p>
 
 <br/>
 
 <h2 >:computer: Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,materialui,nextjs,express,nodejs,mongodb,mysql,git,postman&perline=7" />
+    <img src="https://skillicons.dev/icons?i=ts, py, go, express, fastpi, react, postgres, mongodb&perline=7" />
   </a>
 </p>
 
