@@ -6,7 +6,7 @@
 <h2 >:computer: Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts, py, go, express, fastpi, react, postgres, mongodb&perline=7" />
+    <img src="https://skillicons.dev/icons?i=ts,py,go,express,fastpi,react,postgres,mongodb&perline=8" />
   </a>
 </p>
 
